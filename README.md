@@ -14,13 +14,15 @@
 *  Classes, Objects
  #### Learn Python [* https://www.kaggle.com/learn/python*]
 
- ### Week 3: Pandas
- https://shorturl.at/2Z99h
+
  --------------------------
- ### Week 4: Numpy
+ ### Week 3: Numpy
  
 ---------------------
-### Week 5: Seaborn
+ ### Week 4: Pandas
+ https://shorturl.at/2Z99h
+------------------------
+### Week 5: Seaborn & Matplotlib,
 
 
 
