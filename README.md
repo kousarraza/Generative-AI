@@ -1,7 +1,7 @@
 # Learn Generative AI in 5 Months 
 -----------------------------
 ## Module-1 Foundation Skills (4 weeks)
-
+------------------------------------
  ### Week 1-2: Basic Programming Skills
  Topics
 * Variables, Numbers, Strings
@@ -17,7 +17,6 @@
 
  --------------------------
  ### Week 3: Numpy
- 
 ---------------------
  ### Week 4: Pandas
  https://shorturl.at/2Z99h
