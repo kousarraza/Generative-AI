@@ -13,7 +13,9 @@
 *  Exception handling
 *  Classes, Objects
  #### Learn Python [* https://www.kaggle.com/learn/python*]
- 
+
+ ## Numpy
+ https://shorturl.at/2Z99h
 
 
 ### Introduction to Gen AI
