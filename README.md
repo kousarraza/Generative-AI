@@ -14,8 +14,15 @@
 *  Classes, Objects
  #### Learn Python [* https://www.kaggle.com/learn/python*]
 
- ## Numpy
+ ### Week 3: Pandas
  https://shorturl.at/2Z99h
+ --------------------------
+ ### Week 4: Numpy
+ 
+---------------------
+### Week 5: Seaborn
+
+
 
 
 ### Introduction to Gen AI
