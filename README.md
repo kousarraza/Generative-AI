@@ -1,4 +1,4 @@
-# Generative-AI
+# Learn Generative-AI in 5 Months 
 
 ## Module-1
 ### Introduction to Gen AI
