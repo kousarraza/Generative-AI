@@ -2,7 +2,7 @@
 -----------------------------
 ## Module-1 Foundation Skills (4 weeks)
 ------------------------------------
- ### Week 1-2: Basic Programming Skills
+ ### Week 1-2: Basic Programming Skills 
  Topics
 * Variables, Numbers, Strings
 * Lists, Dictionaries, Sets, Tuples
